@@ -16,6 +16,10 @@ Um simples controlador e exibidor de música para spotify no polybar.
 - 
     - [playerctl](https://www.archlinux.org/packages/community/x86_64/playerctl/)
     - [ttf-font-awesome](https://aur.archlinux.org/packages/ttf-font-awesome-4) [AUR]
+    
+## Scripts
+
+Adicione os scripts **spotify** e **spotifypp** ao caminho ***~/.config/polybar/scripts***
 
 ## Código
 
